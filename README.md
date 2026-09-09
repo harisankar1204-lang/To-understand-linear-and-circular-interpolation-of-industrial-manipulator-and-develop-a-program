@@ -34,3 +34,7 @@ ALGORITHM : A Linear Interpolation 2.Start the robot system.
 10.Execute the program.
 
 # RESULT: 
+
+
+<img width="1078" height="797" alt="Screenshot 2026-09-09 141519" src="https://github.com/user-attachments/assets/889269d8-c98a-4bd9-abdd-b1af3f26cb38" />
+
